@@ -28,6 +28,6 @@ You can turn on the toggle switch button, and then enter to "Live Report" to see
 
 Download a plugin called 'Preview on Web Server' in Visual Studio Code.
 
-By clicking the right mouse button, a menu will open, from which one must choose one of the following options -
+By clicking the right mouse button in the index.html script, a menu will open, from which one must choose one of the following options -
 * vscode-preview-server: Launch on browser (or pressing Ctrl+Shift+L)
 * vscode-preview-server: Preview on side panel (Ctrl+Shift+V))
